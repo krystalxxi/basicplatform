@@ -1,0 +1,2 @@
+com.ecommerce.basicplatform.config.RedisConfig
+com.ecommerce.basicplatform.config.NacosConfig
